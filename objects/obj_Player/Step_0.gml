@@ -3,7 +3,7 @@
 
 
 
-x_vel *= 0.9;
+x_vel *= 0.92;
 y_vel += grav;
 
 
